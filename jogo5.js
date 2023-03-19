@@ -1,0 +1,1 @@
+submitButton.addEventListener("click", loadQuestion);
